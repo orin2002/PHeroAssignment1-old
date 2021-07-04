@@ -9,7 +9,7 @@ body{
     background-repeat: no-repeat;
 
 }
-section{
+.flexible-layout{
     display: flex;
     margin-bottom: 100px;
 }
@@ -48,3 +48,10 @@ h1{
     background-position: right;
 }
 
+.developer h1{
+font-size: 40px;
+}
+
+.full-stack h3 ,.baby h3{
+color: orange;
+}
